@@ -1,0 +1,6 @@
+{
+  "name": "Owner Training Specification Analyzer",
+  "description": "Upload construction specification PDF or TXT files to parse and extract required Owner Training, O&M Manuals, Warranties, and Record / As-Built drawings specifications into an exportable Excel spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
